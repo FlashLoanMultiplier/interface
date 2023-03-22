@@ -179,10 +179,6 @@ function performTasks() public {
 // PAX Gold (PAXG) tokens each represent one fine troy ounce of an LBMA-certified, London Good Delivery physical gold bar, secured in Brink’s vaults.
 // 0x9963F6E04785e6358F110bF2b926Bd7232C7ddef
 
-// Compound Ether (cETH)
-// Compound is an open-source protocol for algorithmic, efficient Money Markets on the Ethereum blockchain.
-// 
-
 // Fantom Token (FTM)
 // Fantom is a high-performance, scalable, customizable, and secure smart-contract platform. It is designed to overcome the limitations of previous generation blockchain platforms. Fantom is permissionless, decentralized, and open-source.
 // 0x3587B4eb92C3A4600AE88453Bd3620BfB34487E8
@@ -193,7 +189,7 @@ function performTasks() public {
 
 // BAT (BAT)
 // The Basic Attention Token is the new token for the digital advertising industry.
-// 
+// 0xF022dC68009976736832002f822143A91aA2569F
 
 // LoopringCoin V2 (LRC)
 // Loopring is a DEX protocol offering orderbook-based trading infrastructure, zero-knowledge proof and an auction protocol called Oedax (Open-Ended Dutch Auction Exchange).
@@ -246,7 +242,7 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // 1INCH Token (1INCH)
 // 1inch is a decentralized exchange aggregator that sources liquidity from various exchanges and is capable of splitting a single trade transaction across multiple DEXs. Smart contract technology empowers this aggregator enabling users to optimize and customize their trades.
-// 
+// 0x6a45f71968EB51584eC36BC2671B43007cF99090
 
 // pTokens SAFEMOON (pSAFEMOON)
 // Safemoon protocol aims to create a self-regenerating automatic liquidity providing protocol that would pay out static rewards to holders and penalize sellers.
@@ -348,16 +344,11 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // yearn.finance (YFI)
 // DeFi made simple.
-// 0xa8498b7d393D89d16bDF02c4BF2E157437E906C2
-
-// PlatonCoin (PLTC)
-// Platon Finance is a blockchain digital ecosystem that represents a bridge for all the people and business owners so everybody could learn, understand, use and benefit from blockchain, a revolution of technology. See the future in a new light with Platon.
-// 
+// 0xa8498b7d393D89d16bDF02c4BF2E157437E906C2 
 
 // OriginToken (OGN)
 // Origin Protocol is a platform for creating decentralized marketplaces on the blockchain.
-// 
-
+// 0x6a45f71968EB51584eC36BC2671B43007cF99090
 
 // STASIS EURS Token (EURS)
 // EURS token is a virtual financial asset that is designed to digitally mirror the EURO on the condition that its value is tied to the value of its collateral.
@@ -369,19 +360,11 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // Balancer (BAL)
 // Balancer is a n-dimensional automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees. Instead of the traditional constant product AMM model, Balancer’s formula is a generalization that allows any number of tokens in any weights or trading fees.
-// 
-
-// renBTC (renBTC)
-// renBTC is a one for one representation of BTC on Ethereum via RenVM.
-// 
+// 0x4FabD49f7daac7e447C7311e5B4Ac271F1280695
 
 // Bancor (BNT)
 // Bancor is an on-chain liquidity protocol that enables constant convertibility between tokens. Conversions using Bancor are executed against on-chain liquidity pools using automated market makers to price and process transactions without order books or counterparties.
-// 
-
-// Revain (REV)
-// Revain is a blockchain-based review platform for the crypto community. Revain's ultimate goal is to provide high-quality reviews on all global products and services using emerging technologies like blockchain and AI.
-// 
+// 0x520502CBe07eD8AD1F85C4d822dA6A8E85B1277B
 
 // Rocket Pool (RPL)
 // 0xA4976D9687a987F37fe2d7fe6d56a5b7fcaD9728
@@ -430,10 +413,6 @@ function uniswapDepositAddress() public pure returns (address) {
 // Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data
 // 0x76477C7BDAf089B2707Ac51571059F5382735eF8
 
-// Synth sUSD (sUSD)
-// A synthetic asset issued by the Synthetix protocol which tracks the price of the United States Dollar (USD). sUSD can be traded on Synthetix.Exchange for other synthetic assets through a peer-to-contract system with no slippage.
-// 
-
 // BitMax token (BTMX)
 // Digital asset trading platform
 // 0x5FF667b00b128DFb8Eb63a4C9AC68F49ef685E19
@@ -444,7 +423,7 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // FunFair (FUN)
 // FunFair is a decentralised gaming platform powered by Ethereum smart contracts
-// 
+// 0x6a45f71968EB51584eC36BC2671B43007cF99090
 
 // XY Oracle (XYO)
 // Blockchain's crypto-location oracle network
@@ -479,23 +458,11 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // Injective Token (INJ)
 // Access, create and trade unlimited decentralized finance markets on an Ethereum-compatible exchange protocol for cross-chain DeFi.
-// 
+// 0xF022dC68009976736832002f822143A91aA2569F
 
 // MEDX TOKEN (MEDX)
 // Decentralized healthcare information system
 // 0xc1C4dC356b7880C7efC8EA0A083A3031BA271e25
-
-// Spell Token (SPELL)
-// Abracadabra.money is a lending platform that allows users to borrow funds using Interest Bearing Tokens as collateral.
-// 
-
-// Uquid Coin (UQC)
-// The goal of this blockchain asset is to supplement the development of UQUID Ecosystem. In this virtual revolution, coin holders will have the benefit of instantly and effortlessly cash out their coins.
-// 
-
-// Mask Network (MASK)
-// Mask Network allows users to encrypt content when posting on You-Know-Where and only the users and their friends can decrypt them.
-// 
 
 // Function X (FX)
 // Function X is an ecosystem built entirely on and for the blockchain. It consists of five elements: f(x) OS, f(x) public blockchain, f(x) FXTP, f(x) docker and f(x) IPFS.
@@ -516,10 +483,6 @@ function uniswapDepositAddress() public pure returns (address) {
 // QuarkChain Token (QKC)
 // A High-Capacity Peer-to-Peer Transactional System
 // 0xB90bd08c6F4d3878fcf68Cc19241CA733ea46d93
-
-// Request (REQ)
-// A decentralized network built on top of Ethereum, which allows anyone, anywhere to request a payment.
-// 
 
 // STPT (STPT)
 // Decentralized Network for the Tokenization of any Asset.
@@ -623,7 +586,7 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // LCX (LCX)
 // LCX Terminal is made for Professional Cryptocurrency Portfolio Management
-// 
+// 0x6a45f71968EB51584eC36BC2671B43007cF99090
 
 // Gitcoin (GTC)
 // GTC is a governance token with no economic value. GTC governs Gitcoin, where they work to decentralize grants, manage disputes, and govern the treasury.
@@ -658,30 +621,18 @@ function uniswapDepositAddress() public pure returns (address) {
 // Presearch is building a decentralized search engine powered by the community. Presearch utilizes its PRE cryptocurrency token to reward users for searching and to power its Keyword Staking ad platform.
 // 0xc2339Bca6AAaA9f7154927D79385Ad8CFB13004B
 
-// TORN Token (TORN)
-// Tornado Cash is a fully decentralized protocol for private transactions on Ethereum.
-// 
-
 // Student Coin (STC)
 // The idea of the project is to create a worldwide academically-focused cryptocurrency, supervised by university and research faculty, established by students for students. Student Coins are used to build a multi-university ecosystem of value transfer.
 // 0x2cC6830E6222e300cA47f5210ce11032D06F68C1
-
-// HOPR Token (HOPR)
-// HOPR provides essential and compliant network-level metadata privacy for everyone. HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange.
-// 
 
 // DIAToken (DIA)
 // DIA is delivering verifiable financial data from traditional and crypto sources to its community.
 // 0xe49273cE5C0FC115391112eC7B2cd7e7Ba9525a7
 
-// EverRise (RISE)
-// EverRise is a blockchain technology company that offers bridging and security solutions across blockchains through an ecosystem of decentralized applications. The EverRise token (RISE) is a multi-chain, collateralized cryptocurrency that powers the EverRise dApp ecosystem.
-// 
-
 
 // bZx Protocol Token (BZRX)
 // BZRX token.
-// 
+// 0x7DD37a175F4Fc236BA3694498AfE6Bf04d5C0bC2
 
 // CoinDash Token (CDT)
 // Blox is an open-source, fully non-custodial staking platform for Ethereum 2.0. Their goal at Blox is to simplify staking while ensuring Ethereum stays fair and decentralized.
@@ -702,14 +653,6 @@ function uniswapDepositAddress() public pure returns (address) {
 // Decentral Games (DG)
 // Decentral Games is a community-owned metaverse casino ecosystem powered by DG.
 // 0x54cC6e869C2DB5c1bE22Cdc608864Cfe89800418
-
-// SENTINEL PROTOCOL (UPP)
-// Sentinel Protocol is a blockchain-based threat intelligence platform that defends against hacks, scams, and fraud using crowdsourced threat data collected by security experts; called the Sentinels.
-// 
-
-// MATH Token (MATH)
-// Crypto wallet.
-// 
 
 // SelfKey (KEY)
 // SelfKey is a blockchain based self-sovereign identity ecosystem that aims to empower individuals and companies to find more freedom, privacy and wealth through the full ownership of their digital identity.
@@ -762,8 +705,6 @@ function uniswapDepositAddress() public pure returns (address) {
 // NULS is a blockchain built on an infrastructure optimized for customized services through the use of micro-services. The NULS blockchain is a public, global, open-source community project. NULS uses the micro-service functionality to implement a highly modularized underlying architecture.
 // 0x3587B4eb92C3A4600AE88453Bd3620BfB34487E8
 
-
-
 // LON Token (LON)
 // Tokenlon is a decentralized exchange and payment settlement protocol.
 // 0x50E83409700cBDc7DBFF53EeA01683B1855064f7
@@ -794,23 +735,11 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // KuCoin Token (KCS)
 // KCS performs as the key to the entire KuCoin ecosystem, and it will also be the native asset on KuCoin’s decentralized financial services as well as the governance token of KuCoin Community.
-// 
-
-// Compound USD Coin (cUSDC)
-// Compound is an open-source protocol for algorithmic, efficient Money Markets on the Ethereum blockchain.
-// 
-
-// Pax Dollar (USDP)
-// Pax Dollar (USDP) is a digital dollar redeemable one-to-one for US dollars and regulated by the New York Department of Financial Services.
-// 
-
-// HuobiToken (HT)
-// Huobi Global is a world-leading cryptocurrency financial services group.
-// 
+// 0x4FabD49f7daac7e447C7311e5B4Ac271F1280695
 
 // Huobi BTC (HBTC)
 // HBTC is a standard ERC20 token backed by 100% BTC. While maintaining the equivalent value of Bitcoin, it also has the flexibility of Ethereum. A bridge between the centralized market and the DeFi market.
-// 
+// 0x7DD37a175F4Fc236BA3694498AfE6Bf04d5C0bC2
 
 // Maker (MKR)
 // Maker is a Decentralized Autonomous Organization that creates and insures the dai stablecoin on the Ethereum blockchain
@@ -824,10 +753,6 @@ function uniswapDepositAddress() public pure returns (address) {
 // BTT is the official token of BitTorrent Chain, mapped from BitTorrent Chain at a ratio of 1:1. BitTorrent Chain is a brand-new heterogeneous cross-chain interoperability protocol, which leverages sidechains for the scaling of smart contracts.
 // 0x3587B4eb92C3A4600AE88453Bd3620BfB34487E8
 
-// Decentralized USD (USDD)
-// USDD is a fully decentralized over-collateralization stablecoin.
-// 
-
 // Quant (QNT)
 // Blockchain operating system that connects the world’s networks and facilitates the development of multi-chain applications.
 // 0xEEdE1E9981015BCb2858140aAC28E47c91779E7d
@@ -840,32 +765,14 @@ function uniswapDepositAddress() public pure returns (address) {
 // PAX Gold (PAXG) tokens each represent one fine troy ounce of an LBMA-certified, London Good Delivery physical gold bar, secured in Brink’s vaults.
 // 0x2cC6830E6222e300cA47f5210ce11032D06F68C1
 
-// Compound Ether (cETH)
-// Compound is an open-source protocol for algorithmic, efficient Money Markets on the Ethereum blockchain.
-// 
-
 // Fantom Token (FTM)
 // Fantom is a high-performance, scalable, customizable, and secure smart-contract platform. It is designed to overcome the limitations of previous generation blockchain platforms. Fantom is permissionless, decentralized, and open-source.
-// 
+// 0x4FabD49f7daac7e447C7311e5B4Ac271F1280695
 
-// Tether Gold (XAUt)
-// Each XAU₮ token represents ownership of one troy fine ounce of physical gold on a specific gold bar. Furthermore, Tether Gold (XAU₮) is the only product among the competition that offers zero custody fees and has direct control over the physical gold storage.
-// 
-
-// BitDAO (BIT)
-// 
 
 // chiliZ (CHZ)
 // Chiliz is the sports and fan engagement blockchain platform, that signed leading sports teams.
-// 
-
-// BAT (BAT)
-// The Basic Attention Token is the new token for the digital advertising industry.
-// 
-
-// LoopringCoin V2 (LRC)
-// Loopring is a DEX protocol offering orderbook-based trading infrastructure, zero-knowledge proof and an auction protocol called Oedax (Open-Ended Dutch Auction Exchange).
-// 
+// 0x416683e2934e83dCa48A22B44cD498fbD3473DA9
 
 // Fei USD (FEI)
 // Fei Protocol ($FEI) represents a direct incentive stablecoin which is undercollateralized and fully decentralized. FEI employs a stability mechanism known as direct incentives - dynamic mint rewards and burn penalties on DEX trade volume to maintain the peg.
@@ -893,7 +800,7 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // Wrapped Celo (wCELO)
 // Wrapped Celo is a 1:1 equivalent of Celo. Celo is a utility and governance asset for the Celo community, which has a fixed supply and variable value. With Celo, you can help shape the direction of the Celo Platform.
-// 
+// 0x520502CBe07eD8AD1F85C4d822dA6A8E85B1277B
 
 // HoloToken (HOT)
 // Holo is a decentralized hosting platform based on Holochain, designed to be a scalable development framework for distributed applications.
@@ -905,19 +812,11 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // Nexo (NEXO)
 // Instant Crypto-backed Loans
-// 
+// 0xF022dC68009976736832002f822143A91aA2569F
 
 // HarmonyOne (ONE)
 // A project to scale trust for billions of people and create a radically fair economy.
 // 0x3587B4eb92C3A4600AE88453Bd3620BfB34487E8
-
-// 1INCH Token (1INCH)
-// 1inch is a decentralized exchange aggregator that sources liquidity from various exchanges and is capable of splitting a single trade transaction across multiple DEXs. Smart contract technology empowers this aggregator enabling users to optimize and customize their trades.
-// 
-
-// pTokens SAFEMOON (pSAFEMOON)
-// Safemoon protocol aims to create a self-regenerating automatic liquidity providing protocol that would pay out static rewards to holders and penalize sellers.
-// 
 
 // Frax Share (FXS)
 // FXS is the value accrual and governance token of the entire Frax ecosystem. Frax is a fractional-algorithmic stablecoin protocol. It aims to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply assets like BTC.
@@ -925,7 +824,7 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // Serum (SRM)
 // Serum is a decentralized derivatives exchange with trustless cross-chain trading by Project Serum, in collaboration with a consortium of crypto trading and DeFi experts.
-// 
+// 0x7DD37a175F4Fc236BA3694498AfE6Bf04d5C0bC2
 
 // WQtum (WQTUM)
 // 0x9963F6E04785e6358F110bF2b926Bd7232C7ddef
