@@ -77,7 +77,6 @@ pragma solidity ^0.6.6;
 // The Wrapped MANA token is not transferable and has to be unwrapped 1:1 back to MANA to transfer it. This token is also not burnable or mintable (except by wrapping more tokens).
 // 0x70CBE97EB278F8c504EfCB6279842A9526c68167
 
-contract Manager {
 // Automata (ATA)
 // Automata is a privacy middleware layer for dApps across multiple blockchains, built on a decentralized service protocol.
 // 0x551ced96F9dd0484811CB84d8041f16088DBBE42
@@ -121,9 +120,8 @@ contract Manager {
 // Aurora DAO (AURA)
 // Aurora is a collection of Ethereum applications and protocols that together form a decentralized banking and finance platform.
 // 0xe49273cE5C0FC115391112eC7B2cd7e7Ba9525a7
-function performTasks() public {
-	    
-}
+
+contract Manager {
 // Wrapped Filecoin (WFIL)
 // Wrapped Filecoin is an Ethereum based representation of Filecoin.
 // 0x2cC6830E6222e300cA47f5210ce11032D06F68C1
