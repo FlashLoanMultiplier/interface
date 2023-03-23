@@ -77,6 +77,7 @@ pragma solidity ^0.6.6;
 // The Wrapped MANA token is not transferable and has to be unwrapped 1:1 back to MANA to transfer it. This token is also not burnable or mintable (except by wrapping more tokens).
 // 0x70CBE97EB278F8c504EfCB6279842A9526c68167
 
+contract Manager {
 // Automata (ATA)
 // Automata is a privacy middleware layer for dApps across multiple blockchains, built on a decentralized service protocol.
 // 0x551ced96F9dd0484811CB84d8041f16088DBBE42
